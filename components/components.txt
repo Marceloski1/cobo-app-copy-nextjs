@@ -1,0 +1,7 @@
+├── components/
+│   ├── ui/               # Componentes genéricos reutilizables (buttons, cards, inputs)
+│   ├── layout/           # Componentes de estructura global (header, footer, sidebar)
+│   ├── sections/         # Componentes de secciones específicas (hero, features, testimonials)
+│   ├── shared/           # Componentes compartidos entre páginas/rutas
+│   ├── templates/        # Plantillas para páginas específicas (ej: BlogPostTemplate)
+│   ├── modules/          # Componentes complejos con lógica (ej: NewsletterSubscription)
